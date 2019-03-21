@@ -1,5 +1,17 @@
 [
 	{
+		"index": "ale",
+		"name": "ALE",
+		"fullName": "株式会社ALE",
+		"vision": "Experience a whole new level of entertainment",
+		"frontman": "岡島 礼奈",
+		"established" : "2011",
+		"url": "http://star-ale.com",
+		"tags": [
+			"人工流れ星"
+		]
+	},
+	{
 		"index": "ispace",
 		"name": "ispace",
 		"fullName": "株式会社ispace",
