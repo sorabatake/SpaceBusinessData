@@ -1,6 +1,5 @@
 [
 	{
-		"index": "ale",
 		"name": "ALE",
 		"fullName": "株式会社ALE",
 		"vision": "Experience a whole new level of entertainment",
@@ -12,7 +11,6 @@
 		]
 	},
 	{
-		"index": "ispace",
 		"name": "ispace",
 		"fullName": "株式会社ispace",
 		"vision": "Expand our planet. Expand our future.",
@@ -24,7 +22,6 @@
 		]
 	},
 	{
-		"index": "outsense",
 		"name": "OUTSENSE",
 		"fullName": "株式会社OUTSENSE",
 		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。",
@@ -36,7 +33,6 @@
 		]
 	},
 	{
-		"index": "sorabatake",
 		"name": "宙畑",
 		"fullName": "宙畑 -sorabatake-",
 		"vision": "宇宙産業を日本の誇る基幹産業に。",
