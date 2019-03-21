@@ -6,7 +6,9 @@
 		"vision": "Expand our planet. Expand our future.",
 		"established" : "2010",
 		"url": "https://ispace-inc.com/jpn",
-		"tags": ["HAKUTO"]
+		"tags": [
+			"HAKUTO"
+		]
 	},
 	{
 		"index": "outsense",
@@ -15,7 +17,9 @@
 		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。",
 		"established" : "2018",
 		"url": "http://www.outsense.jp",
-		"tags": ["宇宙建築"]
+		"tags": [
+			"宇宙建築"
+		]
 	},
 	{
 		"index": "sorabatake",
@@ -24,6 +28,9 @@
 		"vision": "宇宙産業を日本の誇る基幹産業に。",
 		"established" : "2017",
 		"url": "https://sorabatake.jp",
-		"tags": ["PR", "Tellus"]
+		"tags": [
+			"PR",
+			"Tellus"
+		]
 	}
 ]
