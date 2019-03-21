@@ -4,15 +4,17 @@
 		"name": "ispace",
 		"fullName": "株式会社ispace",
 		"vision": "Expand our planet. Expand our future.",
-		"tags": ["HAKUTO"],
-		"url": "https://ispace-inc.com"
+		"established" : "2010",
+		"url": "https://ispace-inc.com",
+		"tags": ["HAKUTO"]
 	},
 	{
 		"index": "sorabatake",
 		"name": "宙畑",
 		"fullName": "宙畑 -sorabatake-",
 		"vision": "宇宙産業を日本の誇る基幹産業に。",
-		"tags": ["PR", "Tellus"],
-		"url": "https://sorabatake.jp"
+		"established" : "2017",
+		"url": "https://sorabatake.jp",
+		"tags": ["PR", "Tellus"]
 	}
 ]
