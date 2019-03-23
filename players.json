@@ -1,47 +1,51 @@
 [
 	{
-		"name": "ALE",
-		"fullName": "株式会社ALE",
-		"vision": "Experience a whole new level of entertainment",
-		"frontman": "岡島 礼奈",
 		"established" : "2011",
-		"url": "http://star-ale.com",
+		"frontman": "岡島 礼奈",
+		"fullName": "株式会社ALE",
+		"name": "ALE",
+		"nationality" : "ja",
 		"tags": [
 			"人工流れ星"
-		]
+		],
+		"url": "http://star-ale.com",
+		"vision": "Experience a whole new level of entertainment"
 	},
 	{
-		"name": "ispace",
-		"fullName": "株式会社ispace",
-		"vision": "Expand our planet. Expand our future.",
-		"frontman": "袴田 武史",
 		"established" : "2010",
-		"url": "https://ispace-inc.com/jpn",
+		"frontman": "袴田 武史",
+		"fullName": "株式会社ispace",
+		"name": "ispace",
+		"nationality" : "ja",
 		"tags": [
 			"HAKUTO"
-		]
+		],
+		"url": "https://ispace-inc.com/jpn",
+		"vision": "Expand our planet. Expand our future."
 	},
 	{
-		"name": "OUTSENSE",
-		"fullName": "株式会社OUTSENSE",
-		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。",
-		"frontman": "高橋 鷹山",
 		"established" : "2018",
-		"url": "http://www.outsense.jp",
+		"frontman": "高橋 鷹山",
+		"fullName": "株式会社OUTSENSE",
+		"name": "OUTSENSE",
+		"nationality" : "ja",
 		"tags": [
 			"宇宙建築"
-		]
+		],
+		"url": "http://www.outsense.jp",
+		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。"
 	},
 	{
-		"name": "宙畑",
-		"fullName": "宙畑 -sorabatake-",
-		"vision": "宇宙産業を日本の誇る基幹産業に。",
-		"frontman": "城戸 彩乃",
 		"established" : "2017",
-		"url": "https://sorabatake.jp",
+		"frontman": "城戸 彩乃",
+		"fullName": "宙畑 -sorabatake-",
+		"name": "宙畑",
+		"nationality" : "ja",
 		"tags": [
 			"Tellus",
 			"PR"
-		]
+		],
+		"url": "https://sorabatake.jp",
+		"vision": "宇宙産業を日本の誇る基幹産業に。"
 	}
 ]
