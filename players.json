@@ -24,6 +24,18 @@
 		"vision": "Expand our planet. Expand our future."
 	},
 	{
+		"established" : "2003",
+		"frontman": "山川 宏",
+		"fullName": "JAXA｜宇宙航空研究開発機構",
+		"name": "JAXA",
+		"nationality" : "ja",
+		"tags": [
+			"宇宙機関"
+		],
+		"url": "http://www.jaxa.jp",
+		"vision": "宇宙と空を活かし、安全で豊かな社会を実現する"
+	},
+	{
 		"established" : "2018",
 		"frontman": "高橋 鷹山",
 		"fullName": "株式会社OUTSENSE",
