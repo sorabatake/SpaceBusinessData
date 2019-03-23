@@ -36,6 +36,18 @@
 		"vision": "宇宙と空を活かし、安全で豊かな社会を実現する"
 	},
 	{
+		"established" : "1958",
+		"frontman": "James Bridenstine",
+		"fullName": "NASA | アメリカ航空宇宙局",
+		"name": "NASA",
+		"nationality" : "us",
+		"tags": [
+			"政府機関"
+		],
+		"url": "https://www.nasa.gov",
+		"vision": "We reach for new heights and reveal the unknown for the benefit of humankind"
+	},
+	{
 		"established" : "2018",
 		"frontman": "高橋 鷹山",
 		"fullName": "株式会社OUTSENSE",
