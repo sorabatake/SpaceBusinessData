@@ -1,9 +1,9 @@
 [
 	{
+		"id": "ale",
 		"established" : "2011",
 		"frontman": "岡島 礼奈",
 		"fullName": "株式会社ALE",
-		"name": "ALE",
 		"nationality" : "ja",
 		"tags": [
 			"人工流れ星"
@@ -12,10 +12,10 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "ispace",
 		"established" : "2010",
 		"frontman": "袴田 武史",
 		"fullName": "株式会社ispace",
-		"name": "ispace",
 		"nationality" : "ja",
 		"tags": [
 			"HAKUTO"
@@ -24,10 +24,10 @@
 		"vision": "Expand our planet. Expand our future."
 	},
 	{
+		"id": "jaxa",
 		"established" : "2003",
 		"frontman": "山川 宏",
 		"fullName": "JAXA | 宇宙航空研究開発機構",
-		"name": "JAXA",
 		"nationality" : "ja",
 		"tags": [
 			"宇宙機関"
@@ -36,10 +36,10 @@
 		"vision": "宇宙と空を活かし、安全で豊かな社会を実現する"
 	},
 	{
+		"id": "nasa",
 		"established" : "1958",
 		"frontman": "James Bridenstine",
 		"fullName": "NASA | アメリカ航空宇宙局",
-		"name": "NASA",
 		"nationality" : "us",
 		"tags": [
 			"政府機関"
@@ -48,10 +48,10 @@
 		"vision": "We reach for new heights and reveal the unknown for the benefit of humankind"
 	},
 	{
+		"id": "outsense",
 		"established" : "2018",
 		"frontman": "高橋 鷹山",
 		"fullName": "株式会社OUTSENSE",
-		"name": "OUTSENSE",
 		"nationality" : "ja",
 		"tags": [
 			"宇宙建築"
@@ -60,10 +60,10 @@
 		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。"
 	},
 	{
+		"id": "sorabatake",
 		"established" : "2017",
 		"frontman": "城戸 彩乃",
 		"fullName": "宙畑 -sorabatake-",
-		"name": "宙畑",
 		"nationality" : "ja",
 		"tags": [
 			"Tellus",
