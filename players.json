@@ -48,6 +48,18 @@
 		"vision": "宇宙と空を活かし、安全で豊かな社会を実現する"
 	},
 	{
+		"id": "moonExpress",
+		"established" : "2010",
+		"frontman": "",
+		"fullName": "Moon Express",
+		"nationality" : "us",
+		"tags": [
+			"無人宇宙探査", "宇宙空間の環境提供"
+		],
+		"url": "http://www.moonexpress.com",
+		"vision": "Redefining Possible"
+	},
+	{
 		"id": "nasa",
 		"established" : "1958",
 		"frontman": "James Bridenstine",
