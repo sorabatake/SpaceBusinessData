@@ -12,6 +12,18 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "bradford",
+		"established" : "",
+		"frontman": "",
+		"fullName": "Bradford Space, Inc.",
+		"nationality" : "us",
+		"tags": [
+			"無人宇宙探査", "惑星探査", "Deep Space Industries"
+		],
+		"url": "http://bradford-space.com",
+		"vision": "World-Class Products for Space"
+	},
+	{
 		"id": "ispace",
 		"established" : "2010",
 		"frontman": "袴田 武史",
@@ -66,8 +78,7 @@
 		"fullName": "宙畑 -sorabatake-",
 		"nationality" : "ja",
 		"tags": [
-			"Tellus",
-			"PR"
+			"Tellus", "PR"
 		],
 		"url": "https://sorabatake.jp",
 		"vision": "宇宙産業を日本の誇る基幹産業に。"
