@@ -106,5 +106,17 @@
 		],
 		"url": "https://sorabatake.jp",
 		"vision": "宇宙産業を日本の誇る基幹産業に。"
+	},
+	{
+		"id": "virginGalactic",
+		"established" : "2004",
+		"frontman": "Richard Branson",
+		"fullName": "Virgin Galactic",
+		"nationality" : "us",
+		"tags": [
+			"有人宇宙探査", "宇宙旅行", "SpaceShipTwo"
+		],
+		"url": "https://www.virgingalactic.com",
+		"vision": "Together we open space to change the world for good"
 	}
 ]
