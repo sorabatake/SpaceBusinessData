@@ -84,6 +84,18 @@
 		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。"
 	},
 	{
+		"id": "ptScientists",
+		"established" : "2008",
+		"frontman": "",
+		"fullName": "PTScientists",
+		"nationality" : "de",
+		"tags": [
+			"無人宇宙探査", "宇宙空間の環境提供"
+		],
+		"url": "https://ptscientists.com",
+		"vision": ""
+	},
+	{
 		"id": "sorabatake",
 		"established" : "2017",
 		"frontman": "城戸 彩乃",
