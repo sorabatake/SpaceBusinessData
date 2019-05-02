@@ -12,6 +12,18 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "blueOrigin",
+		"established" : "2000",
+		"frontman": "Jeffrey Bezos",
+		"fullName": "Blue Origin",
+		"nationality" : "us",
+		"tags": [
+			"有人宇宙探査", "宇宙旅行", "New Shepard"
+		],
+		"url": "https://www.blueorigin.com",
+		"vision": "Millions of People Living and Working in Space"
+	},
+	{
 		"id": "bradford",
 		"established" : "",
 		"frontman": "",
