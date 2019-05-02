@@ -12,6 +12,18 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "audacy",
+		"established" : "2015",
+		"frontman": "",
+		"fullName": "Audacy",
+		"nationality" : "us",
+		"tags": [
+			"通信インフラ"
+		],
+		"url": "https://audacy.space",
+		"vision": "Real-time connectivity advancing commerce, exploration, and discovery."
+	},
+	{
 		"id": "bigelowAerospace",
 		"established" : "1999",
 		"frontman": "Robert Bigelow",
