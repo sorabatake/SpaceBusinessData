@@ -12,6 +12,18 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "bigelowAerospace",
+		"established" : "1999",
+		"frontman": "Robert Bigelow",
+		"fullName": "Bigelow Aerospace",
+		"nationality" : "us",
+		"tags": [
+			"有人宇宙探査", "宇宙ホテル"
+		],
+		"url": "https://bigelowaerospace.com",
+		"vision": ""
+	},
+	{
 		"id": "blueOrigin",
 		"established" : "2000",
 		"frontman": "Jeffrey Bezos",
