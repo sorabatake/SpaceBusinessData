@@ -168,6 +168,18 @@
 		"vision": "宇宙産業を日本の誇る基幹産業に。"
 	},
 	{
+		"id": "spaceX",
+		"established" : "2002",
+		"frontman": "Elon Musk",
+		"fullName": "SpaceX",
+		"nationality" : "us",
+		"tags": [
+			"打ち上げサービスプロバイダー"
+		],
+		"url": "https://www.spacex.com",
+		"vision": ""
+	},
+	{
 		"id": "ula",
 		"established" : "2006",
 		"frontman": "Tory Bruno",
