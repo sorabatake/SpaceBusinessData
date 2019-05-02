@@ -12,6 +12,18 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "asrobotic",
+		"established" : "2008",
+		"frontman": "Red Whittaker",
+		"fullName": "Astrobotic Technology",
+		"nationality" : "us",
+		"tags": [
+			"月面着陸船"
+		],
+		"url": "https://www.astrobotic.com",
+		"vision": ""
+	},
+	{
 		"id": "audacy",
 		"established" : "2015",
 		"frontman": "",
