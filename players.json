@@ -72,6 +72,18 @@
 		"vision": "World-Class Products for Space"
 	},
 	{
+		"id": "ist",
+		"established" : "2003",
+		"frontman": "稲川貴大",
+		"fullName": "インターステラテクノロジズ株式会社",
+		"nationality" : "ja",
+		"tags": [
+			"打ち上げサービスプロバイダー", "MOMO"
+		],
+		"url": "http://www.istellartech.com",
+		"vision": "目指すのは、ロケット界のスーパーカブ"
+	},
+	{
 		"id": "ispace",
 		"established" : "2010",
 		"frontman": "袴田 武史",
