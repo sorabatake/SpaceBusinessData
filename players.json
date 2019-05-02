@@ -96,6 +96,18 @@
 		"vision": "宇宙と空を活かし、安全で豊かな社会を実現する"
 	},
 	{
+		"id": "mhi",
+		"established" : "1950",
+		"frontman": "",
+		"fullName": "SpaceX",
+		"nationality" : "ja",
+		"tags": [
+			"ロケット製造", "打ち上げサービスプロバイダー", "H-IIA/H-IIB"
+		],
+		"url": "https://www.mhi.com",
+		"vision": ""
+	},
+	{
 		"id": "moonExpress",
 		"established" : "2010",
 		"frontman": "",
