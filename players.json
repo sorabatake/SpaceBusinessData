@@ -96,6 +96,18 @@
 		"vision": "あなたをどこにでも住めるようにする。そう、それが宇宙でもね。"
 	},
 	{
+		"id": "pdAerosrace",
+		"established" : "2007",
+		"frontman": "緒川 修治",
+		"fullName": "PDエアロスペース株式会社",
+		"nationality" : "ja",
+		"tags": [
+			"有人宇宙探査", "宇宙旅行"
+		],
+		"url": "https://pdas.co.jp",
+		"vision": "民間主導の宇宙機開発"
+	},
+	{
 		"id": "ptScientists",
 		"established" : "2008",
 		"frontman": "",
