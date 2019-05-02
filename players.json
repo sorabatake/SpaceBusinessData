@@ -12,6 +12,18 @@
 		"vision": "Experience a whole new level of entertainment"
 	},
 	{
+		"id": "arianeSpace",
+		"established" : "1980",
+		"frontman": "",
+		"fullName": "Arianespace",
+		"nationality" : "fr",
+		"tags": [
+			"打ち上げサービスプロバイダー"
+		],
+		"url": "http://www.arianespace.com",
+		"vision": "Using space for a better life on Earth"
+	},
+	{
 		"id": "astrobotic",
 		"established" : "2008",
 		"frontman": "Red Whittaker",
