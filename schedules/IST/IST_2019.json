@@ -1,5 +1,5 @@
 {
-  "spacecraft": "IST",
+  "seriesName": "IST",
   "company": "インターステラテクノロジズ株式会社",
   "launches": [
     { "date": "2019-05-04", "name": "MOMO3号機" }
