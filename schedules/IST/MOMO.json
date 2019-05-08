@@ -2,7 +2,7 @@
   "seriesName": "MOMO",
   "company": "インターステラテクノロジズ株式会社",
   "launches": [
-    { "date": "2017-07-30", "name": "MOMO 1号機" },
+    { "date": "2017-07-30", "name": "MOMO 初号機" },
     { "date": "2018-06-30", "name": "MOMO 2号機" },
     { "date": "2019-05-04", "name": "MOMO 3号機" }
   ]
