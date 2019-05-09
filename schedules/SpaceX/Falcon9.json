@@ -2,6 +2,10 @@
   "seriesName": "Falcon 9",
   "company": "SpaceX",
   "launches": [
+    { "date": "2013-03-01", "name": "5" },
+    { "date": "2013-09-29", "name": "6" },
+    { "date": "2013-12-03", "name": "7" },
+
     { "date": "2014-01-06", "name": "8" },
     { "date": "2014-04-18", "name": "9" },
     { "date": "2014-07-14", "name": "10" },
