@@ -1,0 +1,11 @@
+{
+    "seriesName": "Epsilon",
+    "company": "JAXA",
+    "launches": [
+      { "date": "2013-09-14", "name": "試験機" },
+      { "date": "2016-12-20", "name": "2号機" },
+      { "date": "2018-01-18", "name": "3号機" },
+      { "date": "2019-01-18", "name": "4号機" }
+    ]
+  }
+  
