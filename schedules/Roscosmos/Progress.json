@@ -1,0 +1,32 @@
+{
+  "seriesName": "Progress",
+  "company": "Roscosmos",
+  "launches": [
+    { "date": "2013-02-11", "name": "141 Progress M-18M" },
+    { "date": "2013-04-24", "name": "142 Progress M-19M" },
+    { "date": "2013-07-27", "name": "143 Progress M-20M" },
+    { "date": "2013-11-25", "name": "144 Progress M-21M" },
+
+    { "date": "2014-02-05", "name": "145 Progress M-22M" },
+    { "date": "2014-04-09", "name": "146 Progress M-23M" },
+    { "date": "2014-07-23", "name": "147 Progress M-24M" },
+    { "date": "2014-10-29", "name": "148 Progress M-25M" },
+
+    { "date": "2015-02-17", "name": "149 Progress M-26M" },
+    { "date": "2015-04-28", "name": "150 Progress M-27M" },
+    { "date": "2015-07-03", "name": "151 Progress M-28M" },
+    { "date": "2015-10-01", "name": "152 Progress M-29M" },
+    { "date": "2015-12-21", "name": "153 Progress MS-01" },
+
+    { "date": "2016-03-31", "name": "154 Progress MS-02" },
+    { "date": "2016-12-01", "name": "155 Progress MS-04" },
+    { "date": "2016-07-16", "name": "156 Progress MS-03" },
+
+    { "date": "2017-02-22", "name": "157 Progress MS-05" },
+    { "date": "2017-06-14", "name": "158 Progress MS-06" },
+    { "date": "2017-10-14", "name": "159 Progress MS-07" },
+
+    { "date": "2018-02-13", "name": "160 Progress MS-08" },
+    { "date": "2018-07-09", "name": "161 Progress MS-09" }
+  ]
+}

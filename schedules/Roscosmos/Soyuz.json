@@ -1,0 +1,42 @@
+{
+  "seriesName": "Soyuz",
+  "company": "Roscosmos",
+  "launches": [
+    { "date": "2012-05-15", "name": "113 Soyuz TMA-04M" },
+    { "date": "2012-07-15", "name": "114 Soyuz TMA-05M" },
+    { "date": "2012-10-23", "name": "115 Soyuz TMA-06M" },
+    { "date": "2012-12-19", "name": "116 Soyuz TMA-07M" },
+
+    { "date": "2013-03-28", "name": "117 Soyuz TMA-08M" },
+    { "date": "2013-05-28", "name": "118 Soyuz TMA-09M" },
+    { "date": "2013-09-25", "name": "119 Soyuz TMA-10M" },
+    { "date": "2013-11-07", "name": "120 Soyuz TMA-11M" },
+
+    { "date": "2014-03-25", "name": "121 Soyuz TMA-12M" },
+    { "date": "2014-05-28", "name": "122 Soyuz TMA-13M" },
+    { "date": "2014-09-25", "name": "123 Soyuz TMA-14M" },
+    { "date": "2014-11-23", "name": "124 Soyuz TMA-15M" },
+
+    { "date": "2015-03-27", "name": "125 Soyuz TMA-16M" },
+    { "date": "2015-07-22", "name": "126 Soyuz TMA-17M" },
+    { "date": "2015-09-02", "name": "127 Soyuz TMA-18M" },
+    { "date": "2015-12-15", "name": "128 Soyuz TMA-19M" },
+
+    { "date": "2016-03-18", "name": "129 Soyuz TMA-20M" },
+    { "date": "2016-07-07", "name": "130 Soyuz MS-01" },
+    { "date": "2016-10-19", "name": "131 Soyuz MS-02" },
+    { "date": "2016-11-17", "name": "132 Soyuz MS-03" },
+
+    { "date": "2017-04-20", "name": "133 Soyuz MS-04" },
+    { "date": "2017-07-28", "name": "134 Soyuz MS-05" },
+    { "date": "2017-09-12", "name": "135 Soyuz MS-06" },
+    { "date": "2017-12-17", "name": "136 Soyuz MS-07" },
+
+    { "date": "2018-03-21", "name": "137 Soyuz MS-08" },
+    { "date": "2018-06-06", "name": "138 Soyuz MS-09" },
+    { "date": "2018-10-11", "name": "139 Soyuz MS-10" },
+    { "date": "2018-12-03", "name": "140 Soyuz MS-11" },
+
+    { "date": "2019-03-14", "name": "141 Soyuz MS-12" }
+  ]
+}
